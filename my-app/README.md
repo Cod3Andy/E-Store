@@ -1,3 +1,5 @@
+Implementing StripeAPI into E-commerce store. This project has been done for educational purposes and based on this:(https://www.youtube.com/watch?v=7mUGqExgPdQ) tutorial. 
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
